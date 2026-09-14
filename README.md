@@ -5,7 +5,7 @@ de segurança (SOC). Buscando oportunidade como analista SOC / Blue Team.
 
 ## Foco atual
 - Preparação para a certificação Microsoft SC-200 (Security Operations Analyst)
-- Prática hands-on em Microsoft Sentinel, Microsoft Defender e Splunk
+- Prática hands-on em Microsoft Sentinel, Microsoft Defender, Splunk e Wazuh
 - Construção de um laboratório próprio simulando ambiente real de SOC
 
 ## Ferramentas e tecnologias
