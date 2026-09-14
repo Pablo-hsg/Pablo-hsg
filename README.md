@@ -9,13 +9,10 @@ de segurança (SOC). Buscando oportunidade como analista SOC / Blue Team.
 - Construção de um laboratório próprio simulando ambiente real de SOC
 
 ## Ferramentas e tecnologias
-Microsoft Sentinel · Microsoft Defender · Microsoft Entra ID · Splunk ·
-KQL · SPL · Azure · Active Directory · Fortigate
+Microsoft Sentinel · Microsoft Defender · Microsoft Entra ID · Splunk · Wazuh · KQL · SPL · MITRE ATT&CK · Azure · Active Directory · Fortigate
 
 ## Projetos
-🔗 [**SOC-Lab**](https://github.com/Pablo-hsg/SOC-Lab) — laboratório prático
-de operações de segurança, com pipeline de detecção e resposta automatizada,
-integração Sentinel–Splunk, threat intelligence e troubleshooting documentado.
+🔗 [**SOC-Lab**](https://github.com/Pablo-hsg/SOC-Lab) — laboratório próprio de SOC construído do zero, simulando o dia a dia de um analista: detecção, correlação de eventos e resposta a incidentes. Inclui um pipeline completo no Sentinel (regra → incidente → automação → playbook), integração com Splunk, enriquecimento via threat intelligence, e uma regra de correlação customizada no Wazuh para detecção de força bruta — criada, testada e depurada até o disparo confirmado.
 
 ## Contato
 [LinkedIn](https://linkedin.com/in/pablo-gonzaga-2108763b1)
